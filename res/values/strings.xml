@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PaymentSharing</string>
+    <string name="new_payment">New payment</string>
+    <string name="current_payments">Current payments</string>
+    <string name="statistics">Statistics</string>
+    <string name="payment_name">Payment name</string>
+    <string name="n_participants">Number of participants</string>
+    <string name="new_participant">Add new participant</string>
+    <string name="accept">Accept</string>
+    <string name="cancel">Cancel</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="add_from_contacts">Add from your contacts</string>
+</resources>
