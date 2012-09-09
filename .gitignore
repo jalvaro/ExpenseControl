@@ -1,0 +1,10 @@
+
+*.class
+
+gen/com/jalvaro/expensecontrol/BuildConfig.java
+
+gen/com/jalvaro/expensecontrol/R.java
+
+bin/AndroidManifest.xml
+
+.classpath
